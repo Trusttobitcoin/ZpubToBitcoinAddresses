@@ -18,12 +18,6 @@ First, clone the repository or download the source code. Then, install the requi
 ```bash
 pip install -r requirements.txt
 
-## License
-
-This project is released under the MIT License.
-
-## Disclaimer
-Please note that this script is provided "as is" without warranty of any kind. Users should use it at their own risk. The authors and contributors are not responsible for any loss or damage resulting from the use of this tool
 
 
 
