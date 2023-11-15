@@ -1,2 +1,30 @@
 # ZpubToBitcoinAddresses
-Python script that generates Bitcoin addresses from a given zpub key. It's designed to support the generation of native SegWit (bech32) addresses, which start with `bc1`. This tool is especially useful for cryptocurrency enthusiasts and developers who need to generate multiple Bitcoin addresses from their zpub keys.
+
+## Overview
+`ZpubToBitcoinAddresses` is a Python script designed to generate Bitcoin addresses from a provided zpub key. It's tailored for users who need to create multiple Bitcoin addresses in the native SegWit (bech32) format, typically starting with `bc1`. This tool is valuable for cryptocurrency enthusiasts, wallet developers, or anyone working with Bitcoin address generation.
+
+## Features
+- **Generate multiple Bitcoin addresses** from a zpub key.
+- **Supports native SegWit (bech32) address format**.
+- **Simple and easy-to-use** command-line interface.
+
+## Prerequisites
+- Python 3.x
+
+## Installation
+
+First, clone the repository or download the source code. Then, install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+
+## License
+
+This project is released under the MIT License.
+
+## Disclaimer
+Please note that this script is provided "as is" without warranty of any kind. Users should use it at their own risk. The authors and contributors are not responsible for any loss or damage resulting from the use of this tool
+
+
+
+
